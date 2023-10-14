@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ESCALANTECARRION_DAM_PC1</string>
+    <string name="valTxtVwValor1">Valor 1</string>
+    <string name="valTxtVwValor2">Valor 2</string>
+    <string name="btnSend">Send</string>
+    <string name="valSuma">Suma</string>
+    <string name="valResta" />
+    <string name="valMulti" />
+    <string name="valDiv">División</string>
+    <string name="valRest">Resta</string>
+    <string name="valMult">Multiplicación</string>
+</resources>
